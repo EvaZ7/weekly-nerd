@@ -1,27 +1,6 @@
-# Weekly Nerd [@cmda-minor-web](https://github.com/cmda-minor-web) 2022 - 2023
+# Weekly Nerd
 
-Tijdens de minor worden een aantal sessies georganiseerd om kennis te maken met het vakgebied. 
-Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. Nerd alert.
-
-## Leerdoelen
-- Kennismaken met het beroepenveld
-- Oriënteren op het vakgebied
-- Vakgerelateerde artikelen leren schrijven
-
-## Programma & Werkwijze
-Wekelijks worden presentaties gegeven door bedrijven uit het vakgebied. 
-Zo krijg je een goed beeld van het vakgebied en krijg je contacten in het werkveld. 
-Dat kan handig zijn voor als je een afstudeerstage zoekt, of een afstudeeropdracht. 
-Maak van iedere presentatie sketch-notes / aantekeningen.
-Fork de Weekly Nerd repo en verzamel je aantekeningen in de wiki of maak zelf een blog. 
-Er wordt van je verwacht dat je alle Weekly Nerds bijwoont. 
-Als je een Weekly Nerd mist dan krijg je een vervangende opdracht.
-<!-- Tip: Schrijf ook altijd een link-lijstje met (interessante) onderwerpen die aan bod zijn gekomen. -->
-
-Drie keer schrijf je een uitgebreid artikel over een relevant onderwerp. 
-Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse van een website die in een Weekly Nerd is behandeld. 
-[Lees hier meer over het schrijven van artikelen](#5-artikelen) en lees een paar voorbeelden van vorige jaren.
-
+Hoi en welkom bij deze repository voor mijn "weekly nerds" van de minor web design en development. Tijdens de minor is er bijna wekelijks een gastspreker uit het vakgebied langsgekomen om ons meer te vertellen over de nieuwste snufjes of om ons handige tips en trucs te geven. Ik heb na aanleiding hiervan drie artikelen geschreven  een relevant web design en development onderwerp en van alle colleges aantekeningen gemaakt. De meeste aantekeningen zijn offline gemaakt maar heb er later toch voor gekozen om er een aantal online te maken.
 
 ### Programma
 

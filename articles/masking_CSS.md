@@ -15,7 +15,7 @@ img {
 }
 ```
 
-De andere manier is om een element te maskeren met een afbeelding. Zo kan je een logo bijvoorbeeld een kleur geven of eerst een patroon maken met CSS en dat in het logo zetten, de mogelijkheden zijn eindeloos.
+De andere manier is om een element te maskeren met een afbeelding (Matuzović, 2023). Zo kan je een logo bijvoorbeeld een kleur geven of eerst een patroon maken met CSS en dat in het logo zetten, de mogelijkheden zijn eindeloos.
 
 ```
 div {
@@ -57,7 +57,7 @@ Dit is een van de meest interessante eigenschap al zeg ik het zelf. Het werkt vr
 
 ### Meerdere waardes
 
-Het is ook mogelijk om meerdere waardes toe te voegen voor de 'mask-image' en 'background-position'. Deze waardes kunnen door komma's gescheiden worden en zo worden meegegeven, de eerste waarde van de 'background-position' geld dan voor de eerste 'mask-image' en de tweede waarde de positie van de tweede afbeelding, enzovoort. Zo kan je uiteindelijk een heel eigen afbeelding als het ware creëren. 
+Het is ook mogelijk om meerdere waardes toe te voegen voor de 'mask-image' en 'background-position' (Seyedi, 2021). Deze waardes kunnen door komma's gescheiden worden en zo worden meegegeven, de eerste waarde van de 'background-position' geld dan voor de eerste 'mask-image' en de tweede waarde de positie van de tweede afbeelding, enzovoort. Zo kan je uiteindelijk een heel eigen afbeelding als het ware creëren.
 
 ```
 div {
@@ -78,7 +78,7 @@ Eindeloos, maar om toch even wat voorbeelden te geven.
 
 ### Effecten
 
-Als je je masker op-en-top wilt stijlen is het natuurlijk ook mogelijk om effecten toe te voegen aan je masker of filters. Zo kan je bijvoorbeeld schaduw toevoegen of makkelijk een "papercutout" uiterlijk creëren door het maskeren 3D te laten lijken. Je kan diepte creëren, knoppen verder stylen etc. Hierdoor kan je meer diepte en ruimtelijkheid aan je visuele interface meegeven met CSS.
+Als je je masker op-en-top wilt stijlen is het natuurlijk ook mogelijk om effecten toe te voegen aan je masker of filters (Seyedi, 2021b). Zo kan je bijvoorbeeld schaduw toevoegen of makkelijk een "papercutout" uiterlijk creëren door het maskeren 3D te laten lijken. Je kan diepte creëren, knoppen verder stylen etc. Hierdoor kan je meer diepte en ruimtelijkheid aan je visuele interface meegeven met CSS.
 
 ### Animeren
 
@@ -86,4 +86,6 @@ Je kan in CSS de mask-position en mask-size eigenschappen animeren! Hierdoor kan
 
 ## Bronnen
 
-- https://css-tricks.com/almanac/properties/m/mask-position/
+- Seyedi, M. (2021). mask-position | CSS-Tricks. CSS-Tricks. https://css-tricks.com/almanac/properties/m/mask-position/
+- Matuzović, M. (2023, 24 januari). Day 87: mask properties. Day 87: mask properties. https://www.matuzo.at/blog/2023/100daysof-day87/
+- Seyedi, M. (2021b). mask | CSS-Tricks. CSS-Tricks. https://css-tricks.com/almanac/properties/m/mask/
